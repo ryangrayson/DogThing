@@ -15,8 +15,8 @@ namespace DogThing
 
             //string interpolation with the $
 
-            Console.WriteLine($"My dog's name is {dogName}, she is {dogAge} and her name, obviously, starts with {firstInitial}. \n" +
-                $"As her name suggests, it is {genderFemale} that she is a lady. She has {pawPads} toes and weighs {weight}");
+            Console.WriteLine($"My dog's name is {dogName} \nShe is {dogAge} and her name, obviously, starts with {firstInitial}. \n" +
+                $"As her name suggests, it is {genderFemale} that she is a lady \nShe has {pawPads} toes and weighs {weight}");
 
 
         }
