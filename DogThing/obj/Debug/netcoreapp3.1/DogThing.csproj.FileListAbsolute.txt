@@ -1,0 +1,12 @@
+/Users/ryangrayson/Repos/DogThing/DogThing/obj/Debug/netcoreapp3.1/DogThing.csprojAssemblyReference.cache
+/Users/ryangrayson/Repos/DogThing/DogThing/obj/Debug/netcoreapp3.1/DogThing.AssemblyInfoInputs.cache
+/Users/ryangrayson/Repos/DogThing/DogThing/obj/Debug/netcoreapp3.1/DogThing.AssemblyInfo.cs
+/Users/ryangrayson/Repos/DogThing/DogThing/obj/Debug/netcoreapp3.1/DogThing.csproj.CoreCompileInputs.cache
+/Users/ryangrayson/Repos/DogThing/DogThing/bin/Debug/netcoreapp3.1/DogThing.deps.json
+/Users/ryangrayson/Repos/DogThing/DogThing/bin/Debug/netcoreapp3.1/DogThing.runtimeconfig.json
+/Users/ryangrayson/Repos/DogThing/DogThing/bin/Debug/netcoreapp3.1/DogThing.runtimeconfig.dev.json
+/Users/ryangrayson/Repos/DogThing/DogThing/bin/Debug/netcoreapp3.1/DogThing.dll
+/Users/ryangrayson/Repos/DogThing/DogThing/bin/Debug/netcoreapp3.1/DogThing.pdb
+/Users/ryangrayson/Repos/DogThing/DogThing/obj/Debug/netcoreapp3.1/DogThing.dll
+/Users/ryangrayson/Repos/DogThing/DogThing/obj/Debug/netcoreapp3.1/DogThing.pdb
+/Users/ryangrayson/Repos/DogThing/DogThing/obj/Debug/netcoreapp3.1/DogThing.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{135E98E9-9B96-4F9E-AFE1-D14BF08400BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DogThing/Program.cs">
+    <Files>
+      <File FileName="DogThing/Program.cs" Line="19" Column="127" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DogThing" expanded="True">
+            <Node name="DogThing" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DogThing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
